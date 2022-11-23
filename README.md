@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Malova.
+Hello, I’m Malova.
 
 <!---
 maloPRO/maloPRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
