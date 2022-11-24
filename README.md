@@ -9,12 +9,12 @@
   <img src='https://img.shields.io/badge/HTML5-ebebeb?style=flat&logo=html5' /> 
   <img src='https://img.shields.io/badge/CSS3-2775eb?style=flat&logo=css3' />
   <br />
-  <img src='https://img.shields.io/badge/React-e0675?style=flat&logo=react' />
+  <img src='https://img.shields.io/badge/React-333?style=flat&logo=react' />
   <img src='https://img.shields.io/badge/NodeJs-e0675?style=flat&logo=node.js'/>
-  <img src='https://img.shields.io/badge/Express-ebd727?style=flat&logo=express' />
+  <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' />
   <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' />
   <br />
-  <img src='https://img.shields.io/badge/NPM-e0675?style=flat&logo=npm' />
+  <img src='https://img.shields.io/badge/NPM-999?style=flat&logo=npm' />
   <img src='https://img.shields.io/badge/Webpack-e0675?style=flat&logo=webpack' />
   <img src='https://img.shields.io/badge/Git-fffada?style=flat&logo=git' />
   <br />
