@@ -3,20 +3,20 @@
   <h1>Hello there, I'm Malova</h1>
   <h3>Tech tools & Preferences</h3>
   <br/>
-  <img src='https://img.shields.io/badge/Linux-185886?style=flat&logo=linux' />
-  <img src='https://img.shields.io/badge/VS Code-2775eb?style=flat&logo=vscode' />
-  <img src='https://img.shields.io/badge/JavaScript-ebd727?style=flat&logo=javascript' />
-  <img src='https://img.shields.io/badge/HTML5-ebebeb?style=flat&logo=html5' /> 
-  <img src='https://img.shields.io/badge/CSS3-2775eb?style=flat&logo=css3' />
+  <img src='https://img.shields.io/badge/Linux-185886?style=flat&logo=linux'  style = 'width:5rem;'/>
+  <img src='https://img.shields.io/badge/VS Code-2775eb?style=flat&logo=vscode' style = 'width:5rem;' />
+  <img src='https://img.shields.io/badge/JavaScript-ebd727?style=flat&logo=javascript' style = 'width:7rem;' />
+  <img src='https://img.shields.io/badge/HTML5-ebebeb?style=flat&logo=html5' style = 'width:6rem;' /> 
+  <img src='https://img.shields.io/badge/CSS3-2775eb?style=flat&logo=css3' style = 'width:5rem;' />
   <br />
-  <img src='https://img.shields.io/badge/React-333?style=flat&logo=react' />
-  <img src='https://img.shields.io/badge/NodeJs-e0675?style=flat&logo=node.js'/>
-  <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' />
-  <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' />
+  <img src='https://img.shields.io/badge/React-333?style=flat&logo=react' style = 'width:5rem;' />
+  <img src='https://img.shields.io/badge/NodeJs-e0675?style=flat&logo=node.js' style = 'width:6rem;' />
+  <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' style = 'width:6rem;' />
+  <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' style = 'width:7rem;' />
   <br />
-  <img src='https://img.shields.io/badge/NPM-999?style=flat&logo=npm' />
-  <img src='https://img.shields.io/badge/Webpack-e0675?style=flat&logo=webpack' />
-  <img src='https://img.shields.io/badge/Git-fffada?style=flat&logo=git' />
+  <img src='https://img.shields.io/badge/NPM-999?style=flat&logo=npm' style = 'width:5rem;' />
+  <img src='https://img.shields.io/badge/Webpack-e0675?style=flat&logo=webpack' style = 'width:7rem;' />
+  <img src='https://img.shields.io/badge/Git-fffada?style=flat&logo=git' style = 'width:4rem;' />
   <br />
   <br />
   <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=dark' /> 
