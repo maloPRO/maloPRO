@@ -3,14 +3,14 @@
   <h1>Hello there, I'm Malova</h1>
   <h3>Tech tools & Preferences</h3>
   <br/>
-  <img src='https://img.shields.io/badge/Linux-185886?style=flat&logo=linux'  style = 'width:5rem;'/>
-  <img src='https://img.shields.io/badge/VS Code-2775eb?style=flat&logo=vscode' style = 'width:5rem;' />
-  <img src='https://img.shields.io/badge/JavaScript-ebd727?style=flat&logo=javascript' style = 'width:7rem;' />
-  <img src='https://img.shields.io/badge/HTML5-ebebeb?style=flat&logo=html5' style = 'width:6rem;' /> 
-  <img src='https://img.shields.io/badge/CSS3-2775eb?style=flat&logo=css3' style = 'width:5rem;' />
+  <img src='https://img.shields.io/badge/Linux-185886?style=flat&logo=linux'  style = 'width:100px; height: 30px'/>
+  <img src='https://img.shields.io/badge/VS Code-2775eb?style=flat&logo=vscode' style = 'width:100px; height: 30px' />
+  <img src='https://img.shields.io/badge/JavaScript-ebd727?style=flat&logo=javascript' style = 'width:100px; height: 30px' />
+  <img src='https://img.shields.io/badge/HTML5-ebebeb?style=flat&logo=html5' style = 'width:100px; height: 30px' /> 
+  <img src='https://img.shields.io/badge/CSS3-2775eb?style=flat&logo=css3' style = 'width:100px; height: 30px' />
   <br />
-  <img src='https://img.shields.io/badge/React-333?style=flat&logo=react' style = 'width:5rem;' />
-  <img src='https://img.shields.io/badge/NodeJs-e0675?style=flat&logo=node.js' style = 'width:6rem;' />
+  <img src='https://img.shields.io/badge/React-333?style=flat&logo=react' style = 'width:100px; height: 30px' />
+  <img src='https://img.shields.io/badge/NodeJs-e0675?style=flat&logo=node.js' style = 'width:100px; height: 30px' />
   <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' style = 'width:6rem;' />
   <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' style = 'width:7rem;' />
   <br />
