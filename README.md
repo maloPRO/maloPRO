@@ -11,8 +11,8 @@
   <br />
   <img src='https://img.shields.io/badge/React-333?style=flat&logo=react' style = 'width:100px; height: 30px' />
   <img src='https://img.shields.io/badge/NodeJs-e0675?style=flat&logo=node.js' style = 'width:100px; height: 30px' />
-  <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' style = 'width:6rem;' />
-  <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' style = 'width:7rem;' />
+  <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' style = 'width:100px; height: 30px' />
+  <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' style = 'width:100px; height: 30px' />
   <br />
   <img src='https://img.shields.io/badge/NPM-999?style=flat&logo=npm' style = 'width:5rem;' />
   <img src='https://img.shields.io/badge/Webpack-e0675?style=flat&logo=webpack' style = 'width:7rem;' />
