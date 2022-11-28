@@ -14,9 +14,9 @@
   <img src='https://img.shields.io/badge/Express-d0312d?style=flat&logo=express' style = 'width:100px; height: 30px' />
   <img src='https://img.shields.io/badge/MongoDB-e0675?style=flat&logo=mongodb' style = 'width:100px; height: 30px' />
   <br />
-  <img src='https://img.shields.io/badge/NPM-999?style=flat&logo=npm' style = 'width:5rem;' />
-  <img src='https://img.shields.io/badge/Webpack-e0675?style=flat&logo=webpack' style = 'width:7rem;' />
-  <img src='https://img.shields.io/badge/Git-fffada?style=flat&logo=git' style = 'width:4rem;' />
+  <img src='https://img.shields.io/badge/NPM-999?style=flat&logo=npm' style = 'width:100px; height: 30px' />
+  <img src='https://img.shields.io/badge/Webpack-e0675?style=flat&logo=webpack' style = 'width:100px; height: 30px' />
+  <img src='https://img.shields.io/badge/Git-fffada?style=flat&logo=git' style = 'width:100px; height: 30px' />
   <br />
   <br />
   <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=dark' /> 
