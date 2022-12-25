@@ -16,9 +16,13 @@
   <img src='https://img.shields.io/badge/Git-fffada?style=flat&logo=git' style = 'width:80px; height: 25px' />
   <br />
   <br />
-  <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=dark' /> 
+  
+  <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=dark' />
+  <h2 align='center' style = 'margin-top: 30px'>Let's Connect</h2>
+  <a href='https://twitter.com/gilbertmalova' target='_blank'><img src='https://img.shields.io/badge/-111?style=flat&logo=twitter' style = 'width:35px; height: 35px;';  /></a>
   
 </div>
+
 
 <!---
 maloPRO/maloPRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
