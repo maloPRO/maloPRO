@@ -17,7 +17,7 @@
   <br />
   <br />
   
-  <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=dark' /> 
+  <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=radical' /> 
   <img src = 'https://streak-stats.demolab.com/?user=maloPRO&theme=dark' />
 </div>
 
