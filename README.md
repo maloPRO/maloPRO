@@ -18,8 +18,8 @@
   <br />
   
   <img src ='https://github-readme-stats.vercel.app/api?username=maloPRO&show_icons=true&theme=dark' /> 
+  <img src = 'https://streak-stats.demolab.com/?user=maloPRO&theme=dark' />
 </div>
-
 
 <!---
 maloPRO/maloPRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
