@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
   <h1>Hello there, I'm Malova</h1>
   <h3>My tech tools & Preferences</h3>
   <br/>
