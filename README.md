@@ -1,5 +1,5 @@
  <div align="center">
-  <h1>Hello there, I'm Malova</h1>
+  <h1>Hi there, I'm Malova</h1>
   <h3>My tech tools & Preferences</h3>
   <br/>
   <img src='https://img.shields.io/badge/Linux-185886?style=flat&logo=linux'  style = 'width:80px; height: 25px'/>
